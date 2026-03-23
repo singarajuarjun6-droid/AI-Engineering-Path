@@ -1,58 +1,35 @@
-# 🤖 AI Engineering Path
-### My Journey into Artificial Intelligence, Neural Networks, and LLMs
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Deep%20Learning-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" />
-</p>
+# 🤖 AI Engineer Execution Roadmap
+### Transforming from a Developer to an AI Engineer in 5 Steps
 
 ---
 
-### 🎯 Objective
-This repository serves as my central hub for documenting my transition into **AI Engineering**. It tracks my progress from mathematical foundations to deploying production-ready machine learning models.
+### 🗺️ The Roadmap (Based on My Learning Path)
+
+#### 🔌 Step 1: Work with APIs
+- [ ] Mastering RESTful calls to LLM providers (OpenAI, Anthropic, Gemini).
+- [ ] Implementing authentication and rate-limiting for AI services.
+- [ ] **Goal:** Build a script that communicates with an LLM via terminal.
+
+#### ⌨️ Step 2: Master Prompt Engineering
+- [ ] Learning Zero-shot, Few-shot, and Chain-of-Thought prompting.
+- [ ] Experimenting with System Prompts for persona-based responses.
+- [ ] **Goal:** Create a library of reusable, high-performance prompts for specific tasks.
+
+#### 🏗️ Step 3: Build Projects
+- [ ] Developing a RAG (Retrieval-Augmented Generation) system for local PDFs.
+- [ ] Integrating AI into web apps using Streamlit or FastAPI.
+- [ ] **Goal:** Deploy 3 functional AI-powered applications.
+
+#### 🐙 Step 4: Show Your Skills
+- [ ] Documenting technical challenges and architectural decisions.
+- [ ] Creating clean, readable code and professional READMEs.
+- [ ] **Goal:** Build a high-authority GitHub presence for AI Engineering.
+
+#### 📚 Step 5: Learn How to Learn
+- [ ] Staying updated with daily arXiv papers and AI news.
+- [ ] Understanding the underlying architecture (Transformers, Attention mechanism).
+- [ ] **Goal:** Transition from using tools to understanding the science behind them.
 
 ---
 
-### 🗺️ Learning Roadmap
-
-#### 🟢 Phase 1: Foundations (In Progress)
-- [x] Mathematical Foundations (Linear Algebra & Calculus)
-- [x] Statistical Modeling with NumPy & Pandas
-- [ ] Exploratory Data Analysis (EDA) Techniques
-- [ ] Optimization Algorithms (Gradient Descent)
-
-#### 🟡 Phase 2: Machine Learning Core
-- [ ] Supervised Learning (Regression, Classification, SVMs)
-- [ ] Unsupervised Learning (K-Means, PCA)
-- [ ] Scikit-Learn implementation projects
-
-#### 🔴 Phase 3: Deep Learning & Neural Networks
-- [ ] Building a Perceptron from scratch
-- [ ] CNNs for Computer Vision
-- [ ] Introduction to PyTorch/TensorFlow frameworks
-
-#### 🚀 Phase 4: Modern AI & LLMs
-- [ ] Transformer Architectures
-- [ ] Fine-tuning LLMs with Hugging Face
-- [ ] Building RAG (Retrieval-Augmented Generation) Systems
-
----
-
-### 🧪 Current Projects & Experiments
-* **[Project 1 Name]**: *Short description of what you are building right now.*
-* **[Project 2 Name]**: *Future AI experiment.*
-
----
-
-### 📚 Resources I'm Following
-- 📖 *Deep Learning* by Ian Goodfellow
-- 🎓 Andrew Ng’s Machine Learning Specialization
-- 🧪 Fast.ai - Practical Deep Learning for Coders
-
----
-
-<p align="center">
-  <i>"The best way to learn AI is to build it, one layer at a time."</i><br>
-  📅 <b>Last Updated:</b> March 2026
-</p>
+### 🛠️ Current Status: `Step 1 - API Integration` ⚙️
